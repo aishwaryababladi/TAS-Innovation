@@ -1,4 +1,4 @@
-# TAS-Innovation
+# TAS-Innovation Internship
 Task-1
 Multiplication Table:
 1. Prompt the user to enter a number.
