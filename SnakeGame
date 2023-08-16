@@ -1,4 +1,5 @@
 (There are 3 classes: Main, GameFrame, Game)
+
 package snakegame;
 
 public class Main {
